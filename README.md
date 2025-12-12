@@ -8,7 +8,7 @@ advent of code website link: https://adventofcode.com/
 
 - [x] day 1
 - [x] day 2
-- [ ] day 3
+- [x] day 3
 - [ ] day 4
 - [ ] day 5
 - [ ] day 6
