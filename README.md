@@ -6,7 +6,7 @@ advent of code website link: https://adventofcode.com/
 
 ## 2025 progress
 
-- [ ] day 1
+- [x] day 1
 - [ ] day 2
 - [ ] day 3
 - [ ] day 4
