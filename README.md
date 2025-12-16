@@ -14,7 +14,7 @@ advent of code website link: https://adventofcode.com/
 - [x] day 6
 - [x] day 7
 - [x] day 8
-- [ ] day 9
+- [x] day 9
 - [ ] day 10
 - [ ] day 11
 - [ ] day 12
